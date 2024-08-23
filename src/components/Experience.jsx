@@ -3,7 +3,7 @@ import React from 'react';
 const Experience = () => {
   return (
     <div name='experience' className='w-full h-screen bg-gradient-to-r from-slate-950 to-slate-800 text-slate-500 content-center'>
-       <h2 className='text-4xl font-semibold border-slate-500 text-center mb-20 '>Experience</h2> 
+       <h2 className='text-3xl font-semibold border-slate-500 text-center mb-20 '>Experience</h2> 
        <div className='mb-8 flex flex-wrap lg:justify-center ml-5'>
          <div className='w-full lg:w-1/4'>
            <p className='mb-2 text-start text-slate-600 font-bold'>2022 - Present</p>
