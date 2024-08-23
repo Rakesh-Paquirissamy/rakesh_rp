@@ -5,9 +5,9 @@ import resume from '../resume.pdf'
 
 const Home = () => {
   return (
-    <div name="home"className='h-screen w-full bg-gradient-to-r from-slate-950 to-slate-800 flex'>
-      <div className=' max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full py-5 md:flex-row'>
-        <div className='flex flex-col justify-center h-full mt-11 '>
+    <div name="home"className='h-auto md:h-screen w-full flex bg-gradient-to-r from-slate-950 to-slate-800'>
+      <div className=' max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
+        <div className='flex flex-col justify-center h-full  '>
          <h2 className='text-3xl sm:text-4xl mt-11 text-bold text-slate-400'>Hi There <br /> I'm Rakesh paquririssamy</h2>
          <p  className='text-slate-400 text-base py-4  max-w-md'>I have 2+ years of experience in building robust web application with Technologies like React.JS, Tailwind, JAVA, PL/SQL, Tableau......</p>
          <div>
@@ -19,7 +19,7 @@ const Home = () => {
          </div>
         </div>
         <div className=' px-11'>
-           <img src="./assets/Hero.png" alt='my profle' className='  max-w-64 rounded-2xl  mx-9 md:w-full mt-2 mb-2'/>
+           <img src="./assets/Hero.png" alt='my profle' className='  max-w-60 md:max-w-64 rounded-2xl  mx-9 w-full mt-2 mb-2 justify-center'/>
           </div>
       </div>
     </div>

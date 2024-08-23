@@ -6,10 +6,10 @@ import { FaSquareGithub } from "react-icons/fa6";
 
 const About = () => {
   return (
-    <div name="about" className=' w-full h-auto bg-gradient-to-r from-slate-950 to-slate-800 text-slate-400 '>
+    <div name="about" className=' md:w-full h-auto bg-gradient-to-r from-slate-950 to-slate-800 text-slate-400 '>
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full  '>
           <div className='pb-8 justify-center'>
-            <h2  className=' text-3xl font-semibold border-slate-500 text-center pt-14 mt-14'>About</h2>
+            <h2  className=' text-2xl font-semibold border-slate-500 text-center pt-14 mt-14'>About</h2>
           </div>
             <p className=' text-base mt-10 '>Hello!! I'm Rakesh Paquirissamy, A passonated Frontend-Developer with over 2+ years of experience in creating User-friendly web applications
                My primary focus is on crafting excemptional user-friendly interfaces using HTML,CSS,JAVA-SCRIPT,TAILWIND,REACT.
