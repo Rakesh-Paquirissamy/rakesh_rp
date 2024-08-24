@@ -13,7 +13,7 @@ const Experience = () => {
             Frontend Developer <span className='text-sm font-semibold'>- Tata consultacy services</span>
            </h6> 
            <p className='font-semibold'>
-            Contributed to developement of web application using javascript, React.js and Tailwind. Managed database and implemented data-storage solutions. Worked closely with product managers to priortize features and enhancement.
+            Contributed to develop robust web application using javascript, React.js and Tailwind. Managed database and implemented data-storage solutions. Worked closely with product managers to priortize features and enhancement.
            </p>
            <span className='mr-2 mt-4 rounded bg-slate-800 px-2 font-semibold'>
             HTML 
