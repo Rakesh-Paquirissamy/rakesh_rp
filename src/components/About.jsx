@@ -19,7 +19,7 @@ const About = () => {
 
              <br />
              <p className='text-base'>
-                Feel free to reach out to me here on below social-media's Let's chat about contribution to your projects
+                Feel free to reach out to me here on below social-media's Let's get connected
              </p>
              <div className='flex flex-wrap justify-center border-collapse py-20'>
              <div className='rounded-2xl bottom-4 p-4'>
