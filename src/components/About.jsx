@@ -11,10 +11,10 @@ const About = () => {
           <div className='pb-8 justify-center'>
             <h2  className=' text-2xl font-semibold border-slate-500 text-center pt-14 mt-14'>About</h2>
           </div>
-            <p className=' text-base mt-10 '>Hello!! I'm Rakesh Paquirissamy, A passonated Frontend-Developer with over 2+ years of experience in creating User-friendly web applications
-               My primary focus is on crafting excemptional user-friendly interfaces using HTML,CSS,JAVA-SCRIPT,TAILWIND,REACT.
-               In addition to it i've had a privlage to work in designing tool like Photoshope CS6, Illustrator and Light-room. 
-               This combination of development expertise and design sesnsbilty allows me to bridge the gap between design concept and its seamless implementation.
+            <p className=' text-base mt-10 '>Hello!! I'm Rakesh Paquirissamy, 
+              A passionate Frontend-Developer with over 2+ years of experience in creating User-friendly web applications, 
+              My primary focus is on crafting exceptional user-friendly interfaces using HTML, CSS, JAVA-SCRIPT, TAILWIND, and REACT. In addition, I've had the privilege to work in designing tools like Photoshop CS6, Illustrator, and Lightroom. 
+              This combination of development expertise and design sensibility allows me to bridge the gap between the design concept and its seamless implementation.
             </p>
 
              <br />
