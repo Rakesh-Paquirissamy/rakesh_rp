@@ -12,7 +12,7 @@ const Technologies = () => {
   return (
     <div name='technologies' className='w-full h-screen bg-gradient-to-r content-center from-slate-950 to-slate-800 text-slate-500 pb-24'>
         <h2 className='text-3xl font-semibold border-slate-500 text-center mb-20 '>Technologies</h2>
-        <div className='flex flex-wrap item-center justify-center gap-4'>
+        <div className='flex flex-wrap item-center justify-center gap-4 '>
              <div className='rounded-2xl border-4 border-neutral-800 p-4'>
              <FaHtml5 className='text-5xl text-red-500' />
              </div>

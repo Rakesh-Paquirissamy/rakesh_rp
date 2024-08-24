@@ -29,7 +29,7 @@ const NavBar = () => {
     ];
 
   return (
-    <div className='flex justify-between items-center w-full h-10 px-1 text-yellow-50 fixed bg-gradient-to-r from-slate-950 to-slate-800'>
+    <div className='flex justify-between items-center w-full h-10  text-yellow-50 fixed bg-gradient-to-r from-slate-950 to-slate-800'>
         <div className='flex justify-between items-center'>
             <img src="./assets/logo.png" className= 'h-9 mt-2 mb-2  ' alt='logo'/>
             <h1 className='font-semibold text-lg text-gray-300 cursor-pointer hover:scale-105 duration-200'>Rakesh PAQUIRISSAMY</h1>
@@ -45,7 +45,7 @@ const NavBar = () => {
             ))}
         </ul>
 
-        <div  onClick={() => setNav(!nav)} className='cursor-pointer pr-4 z-10 text-gray-400 md:hidden'>
+        <div  onClick={() => setNav(!nav)} className='cursor-pointer pr-4 z-1 text-gray-400 md:hidden'>
         {nav ? <FaTimes size={25}/> : <FaBars size={25}/>}
         </div>
 
